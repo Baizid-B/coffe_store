@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+html{
+    overflow-y: scroll;
+}
+body{
+    font-weight: 100;
+}
